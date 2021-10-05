@@ -1,1 +1,1 @@
-# Farsi_Amoz_check_Update
+{"v":"3.1","i":"ورژن جدید : ۲.۵.۳"}
