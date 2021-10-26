@@ -1,1 +1,1 @@
-{"v":"1.3","i":"No Update Available"}
+{"v":"1.2","i":"No Update Available"}
