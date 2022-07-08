@@ -6,5 +6,5 @@
   "ads": "true",
   "ads_text": "هدیه ویژه ما، به کاربران عزیز\nفارسی آموز!\nبرنامه پارسیان، بزرگترین لغت‌نامه رایگان فارسی، کافیه فقط روی دکمه‌ی زیر کلیک کنی!",
   "ads_button_click_name": "دانلود فارسی آموز",
-  "ads_on_click_link": "market://details?id\u003dIr.FarsiAmoz.Official.Mlx.Studio"
+  "ads_on_click_link": "https://myket.ir/app/com.farhang.dic"
 }
