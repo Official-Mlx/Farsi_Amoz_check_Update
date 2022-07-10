@@ -1,9 +1,9 @@
 {
   "v": "1.2",
   "i": "",
-  "message": "false",
+  "message": "true",
   "text_message": "",
-  "ads": "true",
+  "ads": "false",
   "ads_text": "",
   "ads_button_click_name": "",
   "ads_on_click_link": ""
