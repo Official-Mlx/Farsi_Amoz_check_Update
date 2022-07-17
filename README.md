@@ -1,7 +1,7 @@
 {
   "v": "1.2",
   "i": "",
-  "message": "true",
+  "message": "false",
   "text_message": "",
   "ads": "false",
   "ads_text": "",
