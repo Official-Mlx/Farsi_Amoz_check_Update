@@ -1,5 +1,5 @@
 {
-  "v": "1.1",
+  "v": "1.2",
   "i": "",
   "message": "false",
   "text_message": "",
